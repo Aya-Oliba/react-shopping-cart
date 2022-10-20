@@ -1,0 +1,51 @@
+.card {
+    height: 500px!important;
+    box-shadow: 2px 2px 10px #d1cdcd;
+}
+.img-wrapper {
+    height: 200px;
+}
+.card-text {
+    max-height: 120px;
+}
+.size-20 {
+    font-size: 20px;
+}
+.size-15 {
+    font-size: 15px;
+}
+a {
+    text-decoration: none;
+    color: black;
+}
+a:active {
+    color: black;
+}
+ul a,
+ul a:active
+{
+    color: white;
+    text-decoration: none;
+}
+.cart-icon {
+    font-size: 35px;
+    color: black;
+}
+.cart  span {
+    content: "0";
+    background-color: red;
+    padding: 6px;
+    line-height: 0.3;
+    border-radius: 50%;
+    color: white;
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    right: 145px;
+}
+.crd-img {
+    max-height: 200px;
+}
+.donate {
+    font-size: 30px;
+}

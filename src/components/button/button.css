@@ -1,0 +1,11 @@
+.butn {
+    padding: 1%;
+    border-radius: 20px;
+    border: none;
+    cursor: pointer;
+    margin: 2rem;
+    background-color: white;
+}
+.butn:hover {
+    color: grey;
+}
